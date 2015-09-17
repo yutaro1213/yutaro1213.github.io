@@ -3,6 +3,7 @@ body {
 }
 header {
   background-image: url("海.jpg");
+  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
 }
